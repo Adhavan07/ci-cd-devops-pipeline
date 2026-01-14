@@ -48,7 +48,7 @@ Pipeline Stages
 12. Deploy Application to Kubernetes
 13. Verify Deployment
 
-![CI/CD pipeline stages](docs/images/)
+![CI/CD pipeline stages](Docs/images/Pipelinestages.png)
 
 ## Key Highlights
 
